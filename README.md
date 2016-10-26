@@ -6,4 +6,7 @@ This is for my awesome new project
 
 * List item 2
 
-8 List item 3
+* List item 3
+
+~~~
+ghf
